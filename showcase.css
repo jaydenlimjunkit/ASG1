@@ -34,14 +34,42 @@
     font-size: 60px;
   }
 
-  .flex-container {
+  h1{
+    text-align: center;
+  }
+
+  .container {
     display: flex;
-    background-color: DodgerBlue;
+    width: 100%;
+    background-color: #fff;
+    flex-wrap: wrap;
   }
-  
-  .flex-container > div {
-    background-color: #f1f1f1;
-    margin: 60px;
-    padding: 120px;
-    font-size: 30px;
+
+  .flex-item {
+    padding: 2%;
+    flex-grow: 1;
+    flex-basis: 15%;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #D3D3D3;
   }
+
+  .flex-img img {
+    max-width: 100%;
+  }
+
+  .flex-info {
+    text-align: center;
+    margin-top: auto;
+  }
+
+  /*img{
+    width: 400px;
+  }*/
+
+@media screen and (max-width: 576px){
+  .flex-item {
+    flex: 1 46%;
+    flex-grow: inherit;
+  }
+}
