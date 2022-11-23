@@ -63,10 +63,6 @@
     margin-top: auto;
   }
 
-  /*img{
-    width: 400px;
-  }*/
-
 @media screen and (max-width: 576px){
   .flex-item {
     flex: 1 46%;
