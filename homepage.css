@@ -1,4 +1,5 @@
 .flex-container {
+    background-color: #adadad;
     display: flex;
     flex-wrap: nowrap;
     justify-content: center;
@@ -18,7 +19,7 @@
 .carousel-container{
     width: 60%;
     margin: auto;
-    border: 5px solid black;
+    border: 5px solid #adadad;
     overflow: hidden;
     position: relative;
 }
@@ -52,5 +53,5 @@
 }
 
 section{
-    background-color: black;
+    background-color: #adadad;
 }
