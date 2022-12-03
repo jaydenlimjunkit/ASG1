@@ -21,51 +21,101 @@
     background-color: red;
   }
 
-  .swiper {
-    height: 1020px;
-    z-index: 10;
-  }
+  .carousel-container{
+    width: 60%;
+    margin: auto;
+    border: 5px solid #adadad;
+    overflow: hidden;
+    position: relative;
+}
 
-  .swiper-slide {
-    background-size: cover;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 60px;
-  }
-
-  h1{
-    text-align: center;
-  }
-
-  .container {
+.carousel-slide{
     display: flex;
     width: 100%;
-    background-color: #fff;
-    flex-wrap: wrap;
-  }
+    height: 645px;
+}
 
-  .flex-item {
-    padding: 2%;
-    flex-grow: 1;
-    flex-basis: 15%;
-    display: flex;
-    flex-direction: column;
+#prevBtn{
+    position: absolute;
+    top: 50%;
+    z-index: 10;
+    left: 5%;
+    font-size: 30px;
+    color: white;
+    opacity: 1;
+    cursor: pointer;
+}
+
+#nextBtn{
+    position: absolute;
+    top: 50%;
+    z-index: 10;
+    right: 5%;
+    font-size: 30px;
+    color: white;
+    opacity: 1;
+    cursor: pointer;
+}
+
+section{
     background-color: #adadad;
-  }
+}
 
-  .flex-img img {
-    max-width: 100%;
-  }
+body {
+  position: relative;
+  height: 100%;
+}
 
-  .flex-info {
-    text-align: center;
-    margin-top: auto;
-  }
+body {
+  background: #eee;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
 
-@media screen and (max-width: 576px){
-  .flex-item {
-    flex: 1 46%;
-    flex-grow: inherit;
-  }
+.swiper {
+  width: 80%;
+  height: 50%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+h1{
+  text-align: center;
+}
+
+body{
+  color: white;
+  background-color: #222225
+}
+
+head{
+  background-color: #222225;
 }
