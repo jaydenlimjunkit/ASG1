@@ -57,6 +57,6 @@ https://www.playstation.com/en-sg/games/marvels-spider-man-miles-morales/
 https://valkyrieelysium.square-enix-games.com/en-us/  
 
 #### Acknowledgements
-https://fontawesome.com
-https://swiperjs.com
-https://www.youtube.com/watch?v=KcdBOoK3Pfw
+https://fontawesome.com  
+https://swiperjs.com  
+https://www.youtube.com/watch?v=KcdBOoK3Pfw  
