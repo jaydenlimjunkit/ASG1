@@ -118,3 +118,11 @@
   form {
     display: inline-block;
 }
+
+body{
+  background: #222225;
+}
+
+h2, h1{
+  text-align: center;
+}
