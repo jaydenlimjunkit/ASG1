@@ -40,6 +40,21 @@ SPIDERMANMM.html - https://www.playstation.com/en-sg/games/marvels-spider-man-mi
 VALKYRIEELYSIUM.html - https://valkyrieelysium.square-enix-games.com/en-us/  
 
 #### Media
+https://en.bandainamcoent.eu/elden-ring/elden-ring  
+https://www.pushsquare.com/news/2021/08/gallery_new_elden_ring_screenshots_look_simply_sublime  
+https://www.videogameschronicle.com/news/gallery-12-elden-ring-screenshots-show-the-first-glimpse-at-froms-blockbuster/  
+https://www.ea.com/games/fifa/fifa-23  
+https://www.forbes.com/sites/games/2022/10/09/fifa-23-review-the-good-the-bad-the-bottom-line/?sh=20dfc55938c7  
+https://www.goatsimulator3.com  
+https://store.epicgames.com/en-US/p/goat-simulator-3  
+https://www.playstation.com/en-sg/games/god-of-war-ragnarok/  
+https://www.callofduty.com/modernwarfare2  
+https://www.xbox.com/en-SG/games/store/call-of-duty-modern-warfare-2-campaign-remastered/9n2ctv36z5s6  
+https://overwatch.blizzard.com/en-us/  
+https://www.allkeyshop.com/blog/overwatch-2-the-exact-launch-time-a-2022-10/  
+https://scarletviolet.pokemon.com/en-us/  
+https://www.playstation.com/en-sg/games/marvels-spider-man-miles-morales/  
+https://valkyrieelysium.square-enix-games.com/en-us/  
 
 #### Acknowledgements
 
