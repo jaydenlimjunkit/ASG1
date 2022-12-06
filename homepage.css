@@ -19,7 +19,7 @@
 .carousel-container{
     width: 60%;
     margin: auto;
-    border: 5px solid #adadad;
+    border: 5px solid white;
     overflow: hidden;
     position: relative;
 }
@@ -53,7 +53,7 @@
 }
 
 section{
-    background-color: #adadad;
+    background-color: white;
 }
 
 body {
